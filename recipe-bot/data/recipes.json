@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "name": "토마토 계란 볶음밥",
+    "cuisine": "한식",
+    "timeMinutes": 15,
+    "difficulty": "easy",
+    "ingredients": ["egg", "tomato", "onion", "rice", "soy sauce", "oil"],
+    "instructions": [
+      "팬에 기름을 두르고 양파를 볶는다",
+      "토마토를 넣고 살짝 볶은 뒤 풀어둔 계란을 넣는다",
+      "밥과 간장을 넣고 고루 볶는다"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "김치찌개",
+    "cuisine": "한식",
+    "timeMinutes": 25,
+    "difficulty": "easy",
+    "ingredients": ["kimchi", "tofu", "pork", "onion", "garlic", "gochugaru"],
+    "instructions": [
+      "냄비에 돼지고기와 김치를 볶는다",
+      "물을 붓고 양파/마늘/고춧가루를 넣어 끓인다",
+      "두부를 넣고 5분 더 끓인다"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "계란말이",
+    "cuisine": "한식",
+    "timeMinutes": 10,
+    "difficulty": "easy",
+    "ingredients": ["egg", "green onion", "salt", "oil"],
+    "instructions": [
+      "계란을 풀고 다진 파/소금을 섞는다",
+      "팬에 기름을 두르고 약불로 얇게 펼친 뒤 말아준다",
+      "여러 번 반복해서 두툼하게 만든다"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "김치볶음밥",
+    "cuisine": "한식",
+    "timeMinutes": 15,
+    "difficulty": "easy",
+    "ingredients": ["kimchi", "rice", "egg", "sesame oil", "oil"],
+    "instructions": [
+      "팬에 기름을 두르고 김치를 볶는다",
+      "밥을 넣고 참기름을 둘러 볶는다",
+      "위에 계란 프라이를 올린다"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "된장찌개",
+    "cuisine": "한식",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "ingredients": ["tofu", "zucchini", "onion", "doenjang", "potato", "garlic"],
+    "instructions": [
+      "냄비에 물을 붓고 된장을 풀어 끓인다",
+      "감자/양파/마늘을 넣고 5분 끓인다",
+      "애호박과 두부를 넣고 5분 더 끓인다"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "계란 프라이",
+    "cuisine": "양식",
+    "timeMinutes": 5,
+    "difficulty": "easy",
+    "ingredients": ["egg", "oil", "salt"],
+    "instructions": [
+      "팬에 기름을 두른다",
+      "계란을 깨서 넣고 약불로 익힌다",
+      "소금을 살짝 뿌린다"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "토마토 파스타",
+    "cuisine": "양식",
+    "timeMinutes": 20,
+    "difficulty": "easy",
+    "ingredients": ["pasta", "tomato", "garlic", "olive oil", "salt", "basil"],
+    "instructions": [
+      "파스타를 끓는 소금물에 8분 삶는다",
+      "팬에 올리브오일과 마늘을 볶다가 토마토를 으깨 넣는다",
+      "삶은 파스타를 넣고 바질로 마무리한다"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "알리오 올리오",
+    "cuisine": "양식",
+    "timeMinutes": 15,
+    "difficulty": "easy",
+    "ingredients": ["pasta", "garlic", "olive oil", "salt", "chili flakes"],
+    "instructions": [
+      "파스타를 소금물에 삶는다",
+      "팬에 올리브오일과 마늘을 약불로 볶는다",
+      "고춧가루와 파스타를 넣고 볶는다"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "오믈렛",
+    "cuisine": "양식",
+    "timeMinutes": 10,
+    "difficulty": "easy",
+    "ingredients": ["egg", "butter", "cheese", "salt", "milk"],
+    "instructions": [
+      "계란에 우유와 소금을 풀어 섞는다",
+      "팬에 버터를 녹이고 계란물을 붓는다",
+      "치즈를 올리고 반으로 접는다"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "그릴드 치즈 샌드위치",
+    "cuisine": "양식",
+    "timeMinutes": 10,
+    "difficulty": "easy",
+    "ingredients": ["bread", "cheese", "butter"],
+    "instructions": [
+      "빵 한 면에 버터를 바른다",
+      "치즈를 두 장 사이에 끼운다",
+      "팬에서 양면을 노릇하게 굽는다"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "감자전",
+    "cuisine": "한식",
+    "timeMinutes": 25,
+    "difficulty": "easy",
+    "ingredients": ["potato", "flour", "salt", "oil", "onion"],
+    "instructions": [
+      "감자와 양파를 갈아서 물기를 짠다",
+      "밀가루와 소금을 섞는다",
+      "팬에 기름을 두르고 노릇하게 부친다"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "김치전",
+    "cuisine": "한식",
+    "timeMinutes": 20,
+    "difficulty": "easy",
+    "ingredients": ["kimchi", "flour", "egg", "oil", "water"],
+    "instructions": [
+      "김치를 잘게 썬다",
+      "밀가루/계란/물과 섞어 반죽한다",
+      "팬에 기름을 두르고 양면을 노릇하게 부친다"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "떡볶이",
+    "cuisine": "한식",
+    "timeMinutes": 25,
+    "difficulty": "easy",
+    "ingredients": ["rice cake", "gochujang", "fish cake", "green onion", "sugar", "water"],
+    "instructions": [
+      "냄비에 물/고추장/설탕을 넣고 끓인다",
+      "떡과 어묵을 넣고 5~10분 끓인다",
+      "파를 올려 마무리한다"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "계란찜",
+    "cuisine": "한식",
+    "timeMinutes": 15,
+    "difficulty": "easy",
+    "ingredients": ["egg", "water", "salt", "green onion", "sesame oil"],
+    "instructions": [
+      "계란을 풀고 물/소금과 섞는다",
+      "뚝배기에 붓고 약불로 천천히 익힌다",
+      "파와 참기름으로 마무리한다"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "마파두부",
+    "cuisine": "중식",
+    "timeMinutes": 25,
+    "difficulty": "medium",
+    "ingredients": ["tofu", "ground pork", "garlic", "gochujang", "soy sauce", "green onion"],
+    "instructions": [
+      "팬에 다진 마늘과 다진 돼지고기를 볶는다",
+      "고추장/간장/물을 넣고 끓인다",
+      "두부를 넣고 5분 졸인 뒤 파를 올린다"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "야채 볶음",
+    "cuisine": "양식",
+    "timeMinutes": 15,
+    "difficulty": "easy",
+    "ingredients": ["onion", "carrot", "zucchini", "garlic", "olive oil", "salt"],
+    "instructions": [
+      "야채를 한 입 크기로 썬다",
+      "팬에 올리브오일과 마늘을 볶는다",
+      "야채를 넣고 소금으로 간한다"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "샐러드",
+    "cuisine": "양식",
+    "timeMinutes": 10,
+    "difficulty": "easy",
+    "ingredients": ["lettuce", "tomato", "cucumber", "olive oil", "lemon", "salt"],
+    "instructions": [
+      "야채를 씻어 한 입 크기로 썬다",
+      "그릇에 담고 올리브오일/레몬즙/소금을 뿌린다",
+      "가볍게 섞는다"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "프렌치토스트",
+    "cuisine": "양식",
+    "timeMinutes": 10,
+    "difficulty": "easy",
+    "ingredients": ["bread", "egg", "milk", "butter", "sugar"],
+    "instructions": [
+      "계란/우유/설탕을 섞어 반죽을 만든다",
+      "빵을 적셔서 팬에 버터로 굽는다",
+      "양면이 노릇해질 때까지 굽는다"
+    ]
+  }
+]
